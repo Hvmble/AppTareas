@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hvmble/AppTareas/static/css/main.11637945.css",
+    "main.js": "/Hvmble/AppTareas/static/js/main.7ed3efa5.js",
+    "static/js/787.f6abb7bc.chunk.js": "/Hvmble/AppTareas/static/js/787.f6abb7bc.chunk.js",
+    "index.html": "/Hvmble/AppTareas/index.html",
+    "main.11637945.css.map": "/Hvmble/AppTareas/static/css/main.11637945.css.map",
+    "main.7ed3efa5.js.map": "/Hvmble/AppTareas/static/js/main.7ed3efa5.js.map",
+    "787.f6abb7bc.chunk.js.map": "/Hvmble/AppTareas/static/js/787.f6abb7bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11637945.css",
+    "static/js/main.7ed3efa5.js"
+  ]
+}
