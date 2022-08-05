@@ -9,7 +9,7 @@ function TodoSearch(){
     }
     return(
         <>
-        <TextField className='TodoSearch' onChange={onChangeText} fullWidth   value={searchValue} variant="outlined"/>
+        <TextField placeholder='Buscar' className='TodoSearch' onChange={onChangeText} fullWidth   value={searchValue} variant="outlined"/>
         
         </>
     );
