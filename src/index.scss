@@ -1,0 +1,16 @@
+$backGroundColor: #161b22;
+$textColor: #ffff;
+body {
+margin: 0;
+padding: 0;
+background-color: $backGroundColor;
+color: $textColor;
+font-family:"Poppins", sans-serif;;
+
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
