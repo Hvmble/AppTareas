@@ -1,5 +1,5 @@
 {
-  "name": "curso_react",
+  "name": "app_tareas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,6 +46,6 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage":"https://hvmble.github.io/AppTareas/"
+  "homepage":"https://hvmble.github.io/app_tareas/"
 
 }
